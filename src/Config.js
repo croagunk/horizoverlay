@@ -448,6 +448,10 @@ class ConfigRaw extends Component {
               {/* French */}
               {loc.localeOption5}
             </option>
+            <option value={loc.localeOption6Value}>
+              {/* Japanese */}
+              {loc.localeOption6}
+            </option>
           </select>
           <span
             className="help"
