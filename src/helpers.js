@@ -166,6 +166,7 @@ export const jobRoles = {
     'smn',
     'thm',
     'dnc',
+    'blu',
     'carbuncle',
     'garuda',
     'ifrit',
