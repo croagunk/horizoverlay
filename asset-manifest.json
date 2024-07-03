@@ -1,25 +1,16 @@
 {
   "files": {
-    "main.css": "/horizoverlay/static/css/main.86162985.chunk.css",
-    "main.js": "/horizoverlay/static/js/main.0ebc4fd8.chunk.js",
-    "main.js.map": "/horizoverlay/static/js/main.0ebc4fd8.chunk.js.map",
-    "runtime-main.js": "/horizoverlay/static/js/runtime-main.9a241b58.js",
-    "runtime-main.js.map": "/horizoverlay/static/js/runtime-main.9a241b58.js.map",
-    "static/js/2.c68eba90.chunk.js": "/horizoverlay/static/js/2.c68eba90.chunk.js",
-    "static/js/2.c68eba90.chunk.js.map": "/horizoverlay/static/js/2.c68eba90.chunk.js.map",
+    "main.css": "/horizoverlay/static/css/main.4db2dead.css",
+    "main.js": "/horizoverlay/static/js/main.c395f8d0.js",
+    "static/media/mog.png": "/horizoverlay/static/media/mog.ac9775c8097840fbe8a5.png",
+    "static/media/rpr.png": "/horizoverlay/static/media/rpr.f4c8904d6ae85cf44081.png",
+    "static/media/sge.png": "/horizoverlay/static/media/sge.ed6d4372da983cc483a6.png",
     "index.html": "/horizoverlay/index.html",
-    "precache-manifest.f55ecc527e5c074e65506e2e7717b1df.js": "/horizoverlay/precache-manifest.f55ecc527e5c074e65506e2e7717b1df.js",
-    "service-worker.js": "/horizoverlay/service-worker.js",
-    "static/css/main.86162985.chunk.css.map": "/horizoverlay/static/css/main.86162985.chunk.css.map",
-    "static/js/2.c68eba90.chunk.js.LICENSE.txt": "/horizoverlay/static/js/2.c68eba90.chunk.js.LICENSE.txt",
-    "static/media/mog.png": "/horizoverlay/static/media/mog.e1e18820.png",
-    "static/media/rpr.png": "/horizoverlay/static/media/rpr.fda2c25c.png",
-    "static/media/sge.png": "/horizoverlay/static/media/sge.750eccca.png"
+    "main.4db2dead.css.map": "/horizoverlay/static/css/main.4db2dead.css.map",
+    "main.c395f8d0.js.map": "/horizoverlay/static/js/main.c395f8d0.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a241b58.js",
-    "static/js/2.c68eba90.chunk.js",
-    "static/css/main.86162985.chunk.css",
-    "static/js/main.0ebc4fd8.chunk.js"
+    "static/css/main.4db2dead.css",
+    "static/js/main.c395f8d0.js"
   ]
 }
